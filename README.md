@@ -5,7 +5,7 @@ ios系统快捷指令实现drcom校园网自动化登录。
 
 方法二：下载源文件**校园网自动连接v1.1.0.shortcut**  
 https://github.com/Gabriel32767/drcomconnect/blob/main/校园网自动连接v1.1.0.shortcut  
-![https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_2461.jpg](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_0011.jpg)
+![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_2461.jpg)
 
 ### 常见问题：  
 1、提示不允许不受信任的快捷指令：
