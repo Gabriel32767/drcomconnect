@@ -8,6 +8,5 @@ workflow://shortcuts/e3b3505d7b03419d88653f195b2c36df)
 常见问题：  
 1、提示不允许不受信任的快捷指令：
  ***设置 -> 快捷指令 -> 允许不受信任的快捷指令***  
- ![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_0009.jpg)  
 
 2、打不开链接？：***浏览器Safari打开***
