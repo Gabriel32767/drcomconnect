@@ -6,8 +6,8 @@ ios系统快捷指令实现drcom校园网自动化登录。
 workflow://shortcuts/e3b3505d7b03419d88653f195b2c36df)  
 
 常见问题：  
-提示不允许不受信任的快捷指令  
-![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_0009.jpg)  
-设置 -> 快捷指令 -> 允许不受信任的快捷指令  
-![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_0010.PNG)
+1、提示不允许不受信任的快捷指令：
+ ***设置 -> 快捷指令 -> 允许不受信任的快捷指令***  
+ ![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_0009.jpg)  
+
 
