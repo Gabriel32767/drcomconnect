@@ -13,3 +13,7 @@ workflow://shortcuts/e3b3505d7b03419d88653f195b2c36df)
  ***设置 -> 快捷指令 -> 允许不受信任的快捷指令***  
 
 2、打不开链接？：***浏览器Safari打开***
+
+#### 自动化设置（可选）
+![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_28.JPEG)  
+![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_32.JPEG)
