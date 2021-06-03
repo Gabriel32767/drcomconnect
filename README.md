@@ -3,8 +3,8 @@ ios系统快捷指令实现drcom校园网自动化登录。
 ### 下载方式：  
 方法一：[点击这里下载。](https://www.icloud.com/shortcuts/30dbb70220194ccfa69040afc5c064ed)如果跳转不成功，用Safari打开。  
 
-方法二：下载源文件**校园网自动连接v1.1.0.shortcut**  
-https://github.com/Gabriel32767/drcomconnect/blob/main/校园网自动连接v1.1.0.shortcut  
+方法二：下载源文件**校园网自动连接v1.2.shortcut**  
+https://github.com/Gabriel32767/drcomconnect/blob/main/校园网自动连接v1.2.shortcut
 ![](https://github.com/Gabriel32767/drcomconnect/blob/main/pictures/IMG_2461.jpg) 
 
 ### 常见问题：  
